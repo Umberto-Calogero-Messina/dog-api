@@ -4,3 +4,18 @@ html {
 body {
   font-family: sans-serif;
 }
+
+.d-none {
+  display: none;
+}
+.image-container,
+.title {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image_size {
+  height: 200px;
+}
